@@ -1,0 +1,3 @@
+package com.example.roomdatabasewithtable.DataBase
+
+sealed interface ContactEvent
